@@ -1195,6 +1195,7 @@ h1, h2, h3, .section-heading {
 /* Body text */
 body, p, li, a {
   font-family: 'Roboto', 'Raleway', sans-serif;
+  color: #64f4ac;
 }
 
 /* Accent/Cyber/Highlight */
